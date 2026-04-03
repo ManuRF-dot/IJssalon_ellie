@@ -1,0 +1,11 @@
+{
+    "python-envs.pythonProjects": [
+        {
+            "path": "helper.py",
+            "envManager": "ms-python.python:venv",
+            "packageManager": "ms-python.python:pip"
+        }
+    ],
+    "workbench.editor.enablePreviewFromCodeNavigation": true,
+    "workbench.editor.enablePreviewFromQuickOpen": true
+}
