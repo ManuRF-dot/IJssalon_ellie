@@ -1,11 +1,4 @@
 def presenteer(dictionary, totaal):
-    for product, bedrag in dictionary.items():
-        print(f"{product} : {bedrag} euro")
-    
-    print("=================================")
-    print(f"totaal : {totaal} euro")
-
-def presenteer(dictionary, totaal):
     for item, bedrag in dictionary.items():
         print(f"{item} : {bedrag} euro")
     
